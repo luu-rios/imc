@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+# imc
+calculadora de indice masa corpora
+=======
+>>>>>>> d8ef9b9dd8e6675540f8062ea8652e41c453056a
 
 
 ```markdown
