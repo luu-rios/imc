@@ -1,6 +1,4 @@
-Aquí tienes una propuesta de `README.md` estructurada y completa para el repositorio [luu-rios/imc](https://github.com/luu-rios/imc).
 
-Puedes copiar el siguiente bloque directamente en tu archivo `README.md`:
 
 ```markdown
 # Calculadora de IMC (Índice de Masa Corporal)
